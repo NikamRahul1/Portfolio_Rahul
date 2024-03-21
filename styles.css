@@ -211,6 +211,12 @@ html{
 {
   text-align: center ;
   color: blue;
+  font-weight: bolder;
+
+}
+.skill-name:hover{
+  transform: scale(110%);
+
 
 }
 
@@ -218,14 +224,19 @@ html{
 {
   height: 350px;
   width: 90%;
-  border: 2px;
 }
 .skill-table {
   margin-left: 5%;
-
   text-align: center;
+
   
 }
 .skill-heading{
+  color: brown;
   
+
 }
+.skills-blocks{
+ border: 2px solid black ;
+}
+
